@@ -1,17 +1,17 @@
 # Hi there, I'm a Frontend Engineer & Web Developer! 👋
 
-A detail-oriented frontend developer focused on crafting high-fidelity, semantic, and pixel-perfect user interfaces. I specialize in turning complex designs into responsive, high-performance web applications with clean architecture, smooth user journeys, and robust client-side logic.
+A detail-oriented frontend developer focused on crafting high-fidelity, semantic, and pixel-perfect user interfaces. I specialize in turning complex interface concepts into responsive, lightning-fast web experiences with clean architecture, fluid animations, and robust client-side logic.
 
 ---
 
-##  Technical Expertise
+## 🚀 Core Web Architecture & Expertise
 
-| Category | Technologies |
+| Focus Area | Specialization & Technologies |
 | :--- | :--- |
-| **Core Frontend** | HTML5, CSS3, JavaScript (Vanilla ES6+), Modern Semantics |
-| **UI Styling & Aesthetics** | Modern Layouts, Glassmorphism Design, Tailwind CSS, Responsive Web Design |
-| **Software Architecture** | Object-Oriented Programming (OOP) in C#, Clean Code Practices |
-| **Infrastructure & Utilities** | Python Automation, Basic Secure Network Utilities (Cisco Packet Tracer) |
+| **🎨 Semantic Layout & Structure** | HTML5, Document Object Model (DOM), Accessible Form Design, Modern SEO Semantics |
+| **✨ Advanced UI Styling & Logic** | CSS3 Architecture, Flexbox, Grid, Responsive Web Design (RWD) |
+| **💡 Dynamic Client-Side Interaction** | Vanilla JavaScript (ES6+), Event-Driven Architecture, Dynamic Layout Engine |
+| **💎 Visual Aesthetics** | Glassmorphism Design, Tailwind CSS, Smooth UI Transitions & Animations |
 
 ---
 
@@ -19,15 +19,15 @@ A detail-oriented frontend developer focused on crafting high-fidelity, semantic
 
 ### ☕ Interactive High-Fidelity Web Interfaces (Starbucks Clone & Portfolios)
 * Developed pixel-perfect, responsive web interfaces featuring advanced CSS architectures, fluid glassmorphic visual styles, and seamless across-device layouts.
-* **Key Skills:** Component-Based Layouts, Vanilla JavaScript DOM Manipulation, Advanced CSS Flexbox/Grid.
+* **Key Skills:** Core DOM Manipulation, Responsive Architecture, Advanced CSS Flexbox/Grid.
 
 ### 📚 Multi-Page E-Commerce Layout & Bookshop Client Interface
-* Engineered a fully comprehensive multi-page user experience with structured internal navigation, dynamic client-side forms, and optimized asset delivery for lightning-fast load times.
-* **Key Skills:** Single-Page & Multi-Page Layout Flow, Form Validation, UI Performance Optimization.
+* Engineered a fully comprehensive multi-page user experience with structured internal navigation, dynamic form workflows, and optimized asset delivery for elite load times.
+* **Key Skills:** Multi-Page UI Flow, Pure JavaScript Form Validation, Frontend Optimization.
 
 ---
 
-##  Performance Metrics
+## 📊 Performance Metrics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
@@ -40,6 +40,6 @@ A detail-oriented frontend developer focused on crafting high-fidelity, semantic
 
 ---
 
-##  Let's Connect!
+## 🤝 Let's Connect!
 * Available for specialized frontend technical contracts on **Upwork** and **Fiverr**.
 * 📫 Reach me directly through my freelance portfolios or message me here on GitHub!
